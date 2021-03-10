@@ -1,0 +1,6 @@
+[submodule "modules/tiny-AES-c"]
+	path = modules/tiny-AES-c
+	url = https://github.com/kokke/tiny-AES-c
+[submodule "modules/AES"]
+	path = modules/AES
+	url = https://github.com/dhuertas/AES
