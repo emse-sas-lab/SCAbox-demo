@@ -1,7 +1,7 @@
 SCAbox Acquisition Demo
 ***************************************************************
 
-.. image:: https://img.shields.io/github/license/emse-sas-lab/sca-demo-tdc-aes
+.. image:: https://img.shields.io/github/license/emse-sas-lab/SBAbox-demo
     :target: https://choosealicense.com/licenses/mit/
     :alt: license
 
